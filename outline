@@ -1,0 +1,43 @@
+SETUP
+- left top: ed
+- left bot: vim -- NO RELATIVE NUMBER
+- right: slides
+
+SLIDE: WHY
+SLIDE: TRY
+- editing an existing file
+- 1,7p
+- 5m0
+- quit
+- help
+- force quit
+
+- commands and responses
+- alias
+
+- 9,12p
+- a "or lunch \n or something ."
+- 9,$p
+
+SLIDE: SYNTAX
+
+SLIDE: ADDRESSES
+- try some of these
+
+SLIDE: COMMANDS
+SLIDE: MORE COMMANDS
+- try these
+
+SLIDE: G AND V
+- try these
+
+SLIDE: EVEN MORE
+- not gonna go thru these
+
+SLIDE: BEYOND ED
+- sed:
+  s/plum/apple
+  /plum/d
+  /plum/p and -n
+- vim:
+  - a and i
